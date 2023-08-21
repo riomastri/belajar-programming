@@ -6,6 +6,7 @@ Belajar Programming
 - Belajar JavaScript dalam 3 bulan
  * DOM
 - Belajar PHP dalam 3 bulan
+  *OOP PHP
 - Fundamental WordPress
 - Membuat sebuah website sederhana
 - Belajar membuat tema WordPress
