@@ -4,6 +4,7 @@ Belajar Programming
   * Grid
   * Flexbox
 - Belajar JavaScript dalam 3 bulan
+ * DOM
 - Belajar PHP dalam 3 bulan
 - Fundamental WordPress
 - Membuat sebuah website sederhana
