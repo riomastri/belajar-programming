@@ -1,6 +1,8 @@
 Belajar Programming
 - Belajar HTML dalam 3 bulan
 - Belajar CSS dalam 3 bulan
+  * Grid
+  * Flexbox
 - Belajar JavaScript dalam 3 bulan
 - Belajar PHP dalam 3 bulan
 - Fundamental WordPress
