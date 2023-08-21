@@ -3,5 +3,6 @@ Belajar Programming
 - Belajar CSS dalam 3 bulan
 - Belajar JavaScript dalam 3 bulan
 - Belajar PHP dalam 3 bulan
+- Fundamental WordPress
 - Membuat sebuah website sederhana
 - Belajar membuat tema WordPress
